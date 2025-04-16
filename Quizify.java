@@ -23,10 +23,10 @@ public class Quizify {
 					setQuestions(sc);
 					break;
 				case 2:
-					takeQuiz(sc);
+					//takeQuiz(sc);        in process
 					break;
 				case 3:
-					viewScoreHistory();
+					//viewScoreHistory();  in process
 					break;
 				case 4:
 					System.out.println("\nExiting Quizify...");
