@@ -5,6 +5,7 @@ This code is a good starting point for anyone who wants to learn Java programmin
 
 ## Getting Started
 To run this program, you'll need Java installed on your computer. Clone this repository and navigate to the directory containing the "Quizify.java" file. Then, compile and run the program using the following commands in your terminal:
+
 javac Quizify.java  
 java Quizify
 
